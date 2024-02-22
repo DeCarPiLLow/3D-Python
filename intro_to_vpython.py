@@ -1,6 +1,6 @@
-import vpython
+from vpython import *
 
-ball = vpython.sphere()
+ball = sphere(color = color.red)
 while True:
     pass
 
